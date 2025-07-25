@@ -1,1 +1,1 @@
-Nothing much, looking for job 🙏
+Nothing much 🙏
