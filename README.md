@@ -128,7 +128,7 @@ print("Welcome to my GitHub! 🎉")
 
 > *"Combining theoretical knowledge with practical AI implementation to solve real-world problems"*
 
-## 🌟 Fun Facts
+## 🌟 Facts
 
 <div align="center">
 
