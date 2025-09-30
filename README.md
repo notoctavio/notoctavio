@@ -1,7 +1,7 @@
 # 🚀 Hi, I'm Octavio  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Passionate about AI;Automation+%26+Computer+Science+Student;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Automation+%26+Computer+Science+Student;" alt="Typing SVG" />
 </div>
 
 <div align="center">
