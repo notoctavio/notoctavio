@@ -132,9 +132,9 @@ print("Welcome to my GitHub! 🎉")
 
 <div align="center">
 
-🧠 **AI Enthusiast** - Always exploring the latest in machine learning  
-☕ **Java Lover** - My first programming language and still going strong  
-🐍 **Python Devotee** - The go-to language for AI and data science  
+🧠 **AI Enthusiast** - Always exploring the latest in AI  
+☕ **Java** - My first programming language and still going strong  
+🐍 **Python** - The go-to language for AI and data science  
 🎯 **Problem Solver** - Love tackling complex algorithmic challenges  
 🌍 **Continuous Learner** - Always expanding my tech stack  
 
