@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,30:111827,60:1e293b,100:334155&text=Octavio%20Daniel%20Vizaru&fontColor=f1f5f9&fontSize=44&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%20%20%20Full-Stack%20Developer%20%20%20%20CS%20Student&descAlignY=58&descSize=15&descColor=94a3b8" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,30:111827,60:1e293b,100:334155&text=Octavio%20Daniel%20Vizaru&fontColor=f1f5f9&fontSize=44&animation=fadeIn&fontAlignY=38&desc=Junior%20Full-Stack%20Developer%20%20%7C%20%20AI%20Engineer%20%20%7C%20%20CS%20Student&descAlignY=58&descSize=15&descColor=94a3b8" width="100%" alt=""/>
 
 </div>
 
@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vizaru-octavio-daniel)&nbsp;
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vizaruoctavio@gmail.com)&nbsp;
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=safari&logoColor=white)](https://octaviodanielvizaru.xyz)&nbsp;
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/octavio.1312)&nbsp;
 [![Followers](https://img.shields.io/github/followers/notoctavio?style=flat-square&logo=github&label=Followers&color=0ea5e9)](https://github.com/notoctavio)&nbsp;
 ![Views](https://komarev.com/ghpvc/?username=notoctavio&style=flat-square&color=0369a1&label=Visitors)
@@ -24,15 +25,15 @@
 
 <br/>
 
-4th year student at **Technical University of Cluj-Napoca**, Faculty of Automation & Computer Science, pursuing a B.Sc. in Automation & Applied Informatics.
+4th year student at **Technical University of Cluj-Napoca**, Faculty of Automation & Computer Science, pursuing a B.Sc. in Automation & Applied Informatics. Currently working full-time as a **Junior Full-Stack Web Developer** at **[Storyteller](https://www.getstoryteller.com/)**.
 
 I build AI-powered applications end-to-end — from training models to shipping production-ready full-stack products.
 
 &nbsp;&nbsp; 🔭 &nbsp; Building AI-powered full-stack apps
 <br/>
-&nbsp;&nbsp; 🌱 &nbsp; Deep Learning · MLOps · LLM fine-tuning
+&nbsp;&nbsp; 🌱 &nbsp; Machine Learning · Computer Vision · LLM fine-tuning
 <br/>
-&nbsp;&nbsp; 🧠 &nbsp; Exploring RAG & autonomous agents
+&nbsp;&nbsp; 🧠 &nbsp; Exploring RAG & AI Automations
 <br/>
 &nbsp;&nbsp; 💼 &nbsp; Open to work & collaborations
 
@@ -60,7 +61,7 @@ I build AI-powered applications end-to-end — from training models to shipping 
 <div align="center">
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td align="center" valign="top" width="20%">
+<td align="center" valign="top" width="16%">
 
 **Languages**
 
@@ -74,7 +75,7 @@ I build AI-powered applications end-to-end — from training models to shipping 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="34" alt=""/>
 
 </td>
-<td align="center" valign="top" width="20%">
+<td align="center" valign="top" width="16%">
 
 **AI / ML**
 
@@ -83,10 +84,13 @@ I build AI-powered applications end-to-end — from training models to shipping 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="34" alt=""/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="34" alt=""/>
 <br/><br/>
-<img src="https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt=""/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt=""/>&nbsp;
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt=""/>
+<br/><br/>
+<img src="https://img.shields.io/badge/EasyOCR-4285F4?style=flat-square&logoColor=white" alt=""/>
 
 </td>
-<td align="center" valign="top" width="20%">
+<td align="center" valign="top" width="16%">
 
 **Frontend**
 
@@ -94,9 +98,12 @@ I build AI-powered applications end-to-end — from training models to shipping 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="34" alt=""/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="34" alt=""/>
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="34" alt=""/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white" alt=""/>
 
 </td>
-<td align="center" valign="top" width="20%">
+<td align="center" valign="top" width="16%">
 
 **Backend**
 
@@ -104,20 +111,36 @@ I build AI-powered applications end-to-end — from training models to shipping 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="34" alt=""/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="34" alt=""/>
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="34" alt=""/>
 
 </td>
-<td align="center" valign="top" width="20%">
+<td align="center" valign="top" width="16%">
 
 **DevOps**
 
 <br/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="34" alt=""/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="34" alt=""/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="34" alt=""/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="34" alt=""/>
 <br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="34" alt=""/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="34" alt=""/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" alt=""/>
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="34" alt=""/>
+
+</td>
+<td align="center" valign="top" width="16%">
+
+**Databases**
+
+<br/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="34" alt=""/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="34" alt=""/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="34" alt=""/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="34" alt=""/>
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="34" alt=""/>
 
 </td>
 </tr>
@@ -182,11 +205,12 @@ I build AI-powered applications end-to-end — from training models to shipping 
 
 <div align="center">
 
-| &nbsp; | Area | Focus |
+| &nbsp; | Project | Description |
 |:---:|:---|:---|
-| 🤖 | **AI Systems** | Deep learning, neural networks, model deployment, computer vision |
-| 🌐 | **Full-Stack** | React + TypeScript, Node.js, Spring Boot, REST & GraphQL APIs |
-| 📚 | **Research** | LLMs & RAG pipelines, MLOps, system design, open source |
+| 🚀 | **Storypilot** | Next.js app for AI-assisted content creation & management — strategies, guidance, and automated post workflows |
+| 🤖 | **AI Systems** | Deep learning, computer vision, model deployment, RAG pipelines |
+| 🌐 | **Full-Stack** | React + TypeScript, Node.js, Spring Boot, .NET, REST & GraphQL APIs |
+| 📚 | **Research** | LLMs, AI automations, MLOps, system design, open source |
 
 </div>
 
@@ -204,6 +228,7 @@ Open to **collaborations**, **freelance projects**, and **new opportunities**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vizaru-octavio-daniel)&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vizaruoctavio@gmail.com)&nbsp;&nbsp;
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=safari&logoColor=white)](https://octaviodanielvizaru.xyz)&nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/octavio.1312)
 
 </div>
