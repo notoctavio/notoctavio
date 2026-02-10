@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,30:111827,60:1e293b,100:334155&text=Octavio%20Daniel%20Vizaru&fontColor=f1f5f9&fontSize=44&animation=fadeIn&fontAlignY=38&desc=Junior%20Full-Stack%20Developer%20%20%7C%20%20AI%20Engineer%20%20%7C%20%20CS%20Student&descAlignY=58&descSize=15&descColor=94a3b8" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,30:111827,60:1e293b,100:334155&text=Octavio-Daniel%20Vizaru&fontColor=f1f5f9&fontSize=44&animation=fadeIn&fontAlignY=38&desc=Junior%20Full-Stack%20Developer%20%20%7C%20%20AI%20Engineer%20%20%7C%20%20CS%20Student&descAlignY=58&descSize=15&descColor=94a3b8" width="100%" alt=""/>
 
 </div>
 
@@ -255,5 +255,5 @@ Open to **collaborations**, **freelance projects**, and **new opportunities**.
 ---
 
 <div align="center">
-<sub>Built with curiosity and too much coffee ☕</sub>
+<sub>Keep Grinding ☕</sub>
 </div>
