@@ -199,25 +199,6 @@ I build AI-powered applications end-to-end — from training models to shipping 
 
 ---
 
-### 🎯 &nbsp;What I'm Working On
-
-<br/>
-
-<div align="center">
-
-| &nbsp; | Project | Description |
-|:---:|:---|:---|
-| 🚀 | **Storypilot** | Next.js app for AI-assisted content creation & management — strategies, guidance, and automated post workflows |
-| 🤖 | **AI Systems** | Deep learning, computer vision, model deployment, RAG pipelines |
-| 🌐 | **Full-Stack** | React + TypeScript, Node.js, Spring Boot, .NET, REST & GraphQL APIs |
-| 📚 | **Research** | LLMs, AI automations, MLOps, system design, open source |
-
-</div>
-
-<br/>
-
----
-
 ### 📬 &nbsp;Let's Connect
 
 <div align="center">
