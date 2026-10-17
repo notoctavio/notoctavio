@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=210&amp;color=0:0d1117,55:0f2f46,100:155e75&amp;text=Octavio-Daniel%20Vizaru&amp;fontColor=f8fafc&amp;fontSize=42&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=AI%20Software%20Engineer%20|%20Engineering%20Builder&amp;descAlignY=57&amp;descSize=19" width="100%" alt="Octavio-Daniel Vizaru | AI Software Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=210&amp;color=0:0d1117,55:0f2f46,100:155e75&amp;text=Octavio-Daniel%20Vizaru&amp;fontColor=f8fafc&amp;fontSize=42&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Junior%20AI%20Software%20Engineer%20|%20Engineering%20Builder&amp;descAlignY=57&amp;descSize=19" width="100%" alt="Octavio-Daniel Vizaru | AI Software Engineer"/>
 <a href="https://linkedin.com/in/vizaru-octavio-daniel"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge" alt="LinkedIn"/></a>
 <a href="mailto:vizaruoctavio@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" alt="Email"/></a>
 <a href="https://octaviodanielvizaru.xyz"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&amp;logo=safari&amp;logoColor=38bdf8" alt="Portfolio"/></a>
@@ -13,13 +13,9 @@
 
 <img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="165" alt="Cat typing on a keyboard"/>
 
-I'm **Octavio**, an **AI Software Engineer** based in Romania. I work full-time as an **Engineer Builder** at **[Storyteller](https://www.getstoryteller.com/)**, building full-stack applications and integrating AI into products and developer workflows.
+I'm **Octavio**, an **Junior AI Software Engineer** based in Romania. I work full-time as an **Engineer Builder** at **[Storyteller](https://www.getstoryteller.com/)**, building full-stack applications and integrating AI into products and developer workflows.
 
 I graduated from the **Technical University of Cluj-Napoca**, Faculty of Automation & Computer Science, with a **B.Sc. in Automation & Applied Informatics**. I'm also working on a startup.
-
-- **Building:** full-stack products, MCP integrations, and AI-assisted development workflows.
-- **Exploring:** machine learning, computer vision, LLM fine-tuning, and RAG.
-- **Open to:** collaborations, freelance projects, and new opportunities.
 
 `Cluj-Napoca, Romania` &nbsp; `B.Sc. graduate · 2026`
 
