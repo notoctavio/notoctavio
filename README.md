@@ -27,12 +27,11 @@ I graduated from the **Technical University of Cluj-Napoca**, Faculty of Automat
 
 <div align="center">
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,python,java,cs,react,nextjs,tailwind,nodejs,spring,dotnet,postgres,mongodb,mysql,azure,docker,vercel,git,linux,postman,pytorch,tensorflow&amp;theme=dark&amp;perline=6"/>
-  <source media="(max-width: 600px)" srcset="https://skillicons.dev/icons?i=ts,js,python,java,cs,react,nextjs,tailwind,nodejs,spring,dotnet,postgres,mongodb,mysql,azure,docker,vercel,git,linux,postman,pytorch,tensorflow&amp;theme=light&amp;perline=6"/>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,python,java,cs,react,nextjs,tailwind,nodejs,spring,dotnet,postgres,mongodb,mysql,azure,docker,vercel,git,linux,postman,pytorch,tensorflow&amp;theme=dark&amp;perline=11"/>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,react,nextjs,tailwind,nodejs,spring,dotnet,postgres,mongodb,mysql,azure,docker,vercel,git,linux,postman,pytorch,tensorflow&amp;theme=light&amp;perline=11" width="760" alt="TypeScript, JavaScript, Python, Java, C#, React, Next.js, Tailwind CSS, Node.js, Spring, .NET, PostgreSQL, MongoDB, MySQL, Azure, Docker, Vercel, Git, Linux, Postman, PyTorch, and TensorFlow"/>
-</picture>
+<img
+  src="https://skillicons.dev/icons?i=ts,js,python,java,cs,react,nextjs,tailwind,nodejs,spring,dotnet,postgres,mongodb,mysql,azure,docker,vercel,git,linux,postman,pytorch,tensorflow&amp;theme=light&amp;perline=11"
+  width="760"
+  alt="Tech stack"
+/>
 
 <br/>
 
